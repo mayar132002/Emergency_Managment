@@ -48,9 +48,9 @@ namespace testViewWith2model.Controllers
                 Staffs= Staffs
             };
 
-            return View(list);
+            //return View(list);
             
-            //return View(list.AsEnumerable());
+            return View(list);
 
 
         }
