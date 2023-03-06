@@ -7,5 +7,6 @@ namespace testViewWith2model.Models
 {
     public class Class1
     {
+        public int m { get; set; }
     }
 }
