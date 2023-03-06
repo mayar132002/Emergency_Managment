@@ -15,5 +15,7 @@ namespace Emergency_Management.Models
         public bool STF_Gender { set; get; }
         public bool STF_IsMarrid { set; get; }
         public int STF_STT_ID { set; get; }
+        public int STF_STT_ID { set; get; }
+
     }
 }
